@@ -1,0 +1,2 @@
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id="black-forest-labs/FLUX.1-schnell",local_dir="/data/hdd2/liangqian/RectifID/models/flux-schnell", token="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", resume_download="true")

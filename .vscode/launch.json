@@ -1,0 +1,18 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "lqtest",
+            "python":"/data/hdd2/liangqian/anaconda3/envs/perflow/bin/python",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/data/hdd2/liangqian/RectifID/multi_person_perflow_flux_lq_test.py",
+            "env":{"CUDA_VISIBLE_DEVICES":"6"},
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}

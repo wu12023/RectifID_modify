@@ -13,7 +13,12 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+new_images/
 .eggs/
+models/
+images/
+GroundingDINO/weights/
+images11.27/
 lib/
 lib64/
 parts/
