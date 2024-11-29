@@ -17,7 +17,7 @@ new_images/
 .eggs/
 models/
 images/
-GroundingDINO/weights/
+GroundingDINO/
 images11.27/
 lib/
 lib64/
